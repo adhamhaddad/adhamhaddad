@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Angular, Node.js**
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **TypeScript**
 
 - 📫 How to reach me **adham.ashraf.haddad@gmail.com**
 
