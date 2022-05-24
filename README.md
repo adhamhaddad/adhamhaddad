@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Social-Networking**
 
-- 🌱 I’m currently learning **Angular, Node.js**
+- 🌱 I’m currently learning **React.js, Node.js**
 
 - 💬 Ask me about **TypeScript**
 
