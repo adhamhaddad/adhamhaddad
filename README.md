@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)
+- 🔭 **I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)**
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 **I’m currently learning React.js, Node.js**
 
-- 💬 Ask me about **TypeScript**
+- 💬 **Ask me about TypeScript**
 
-- 📫 How to reach me **adham.ashraf.haddad@gmail.com**
+- 📫 **How to reach me adham.ashraf.haddad@gmail.com**
 
-- 📞 Telegram [@adhamhaddad](https://t.me/adhamhaddad)
+- 📞 **Telegram [@adhamhaddad](https://t.me/adhamhaddad)**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)
+- 📄 **Know about my experiences [CV](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
