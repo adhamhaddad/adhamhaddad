@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adham.ashraf.haddad@gmail.com**
 
-- 📞 Telegram **@adhamhaddad**
+- 📞 Telegram [@adhamhaddad](https://t.me/adhamhaddad)
 
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)
 
