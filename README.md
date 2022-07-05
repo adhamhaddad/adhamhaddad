@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **adham.ashraf.haddad@gmail.com**
 
-- 📞 Mobile / Telegram **+201113833449**
+- 📞 Telegram **@adhamhaddad**
+
 - 📄 Know about my experiences [CV](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)
 
 <br/>
