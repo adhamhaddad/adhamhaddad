@@ -11,7 +11,7 @@
 
 - 📞 **Telegram [@adhamhaddad](https://t.me/adhamhaddad)**
 
-- 📄 **Know about my experiences [CV](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)**
+- 📄 **Know about my experiences [resume](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)**
 
 <br/>
 <h3 align="left">Connect with me:</h3>
