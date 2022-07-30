@@ -84,6 +84,8 @@
 </p>
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
+</p>
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=adhamhaddad&show_icons=true&locale=en" alt="adhamhaddad"/>
 </p>
 <p>
