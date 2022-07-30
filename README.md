@@ -86,8 +86,8 @@
     </a>
 </p>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=adhamhaddad&show_icons=true&locale=en" alt="adhamhaddad"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=adhamhaddad&show_icons=true&locale=en" alt="adhamhaddad"/>
 </p>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamhaddad&" alt="adhamhaddad"/>
