@@ -42,7 +42,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adhamashraf" height="30" width="40" />
     </a>
 </p>
-<br/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
