@@ -85,10 +85,10 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
-<p align="left">
+<p align="left" display="inline">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
 </p>
-<p align="left">
+<p align="right" display="inline">
     <img src="https://github-readme-stats.vercel.app/api?username=adhamhaddad&show_icons=true&locale=en" alt="adhamhaddad"/>
 </p>
 <p align="center">
