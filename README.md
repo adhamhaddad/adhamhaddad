@@ -18,7 +18,6 @@
 </p>
 
 
-
 - 🔭 **I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)**
 
 - 🌱 **I’m currently learning React.js, Node.js**
@@ -31,7 +30,6 @@
 
 - 📄 **Know about my [resume](https://drive.google.com/file/d/1zKU7VrCLnLkGxhulZpk1HuAI5GWYMj7I/view?usp=sharing)**
 
-<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/adhamashraf" target="blank">
@@ -89,6 +87,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
     <img src="https://github-readme-stats.vercel.app/api?username=adhamhaddad&show_icons=true&locale=en" alt="adhamhaddad"/>
 </p>
-<p align="center">
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adhamhaddad&" alt="adhamhaddad"/>
 </p>
