@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adham</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=adhamhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaddad"/>
-</p>
-
 - 🔭 **I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)**
 
 - 🌱 **I’m currently learning React.js, Node.js**
