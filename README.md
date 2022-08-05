@@ -4,11 +4,6 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=adhamhaddad&label=Profile%20views&color=0e75b6&style=flat" alt="adhamhaddad"/>
 </p>
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=adhamhaddad" alt="adhamhaddad" />
-    </a>
-</p>
 
 - 🔭 **I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)**
 
