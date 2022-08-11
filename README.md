@@ -7,7 +7,7 @@
 
 - 💬 **Ask me about TypeScript**
 
-- 📫 **How to reach me adham.ashraf.haddad@gmail.com**
+- 📫 **How to reach me adhamhaddad.dev@gmail.com**
 
 - 📞 **Telegram [@adhamhaddad](https://t.me/adhamhaddad)**
 
