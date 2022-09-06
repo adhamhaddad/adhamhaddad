@@ -3,9 +3,7 @@
 
 - 🔭 **I’m currently working on [Social-Network](https://github.com/adhamhaddad/Social-Network)**
 
-- 🌱 **I’m currently learning React.js, Node.js**
-
-- 💬 **Ask me about TypeScript**
+- 🌱 **I’m currently learning React.js & Node.js**
 
 - 📫 **How to reach me adhamhaddad.dev@gmail.com**
 
