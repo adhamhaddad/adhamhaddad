@@ -52,6 +52,3 @@
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
 </p>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhamhaddad&show_icons=true&locale=en&layout=compact" alt="adhamhaddad"/>
-</p>
