@@ -1,11 +1,4 @@
-<h1 align="center">Hello Friend 👋, I'm Adham</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Egypt</h3>
-
-- 🔭 **I’m currently working on [Linker](https://github.com/adhamhaddad/Linker)**
-
-- 🌱 **I’m currently learning React.js & Node.js**
-
-- 📫 **How to reach me adhamhaddad.dev@gmail.com**
+- 📫 **adhamhaddad.dev@gmail.com**
 
 - 📞 **Telegram [@adhamhaddad](https://t.me/adhamhaddad)**
 
