@@ -1,8 +1,8 @@
-### Full-Stack Developer
+<h3>Full-Stack Developer</h3>
 
 Hello and welcome to my GitHub profile! I am a Full-Stack developer with experience in building web applications from start to finish. I am certified as a Professional Front-End Developer, Advanced Full-Stack Developer, and React Development Cross-Skilling from Udacity Nanodegree programs. I am comfortable working with both front-end and back-end technologies, and I enjoy using my skills to create high-quality, user-friendly applications.
 
-#### Technical Skills
+<h4>Technical Skills</h4>
 
     Front-end: HTML, CSS, JavaScript, React, Next, Redux
     Back-end: Node.js, Express
@@ -11,6 +11,6 @@ Hello and welcome to my GitHub profile! I am a Full-Stack developer with experie
     DevOps: Git, GitHub, Docker, AWS
     Testing and Debugging: Jasmine
 
-#### Contact
+<h4>Contact</h4>
 
 If you would like to get in touch with me, You can reach me at adhamhaddad.dev@gmail.com or connect with me on LinkedIn. I look forward to hearing from you!
