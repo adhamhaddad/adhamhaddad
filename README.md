@@ -5,12 +5,12 @@ Hello and welcome to my GitHub profile! I am a Full-Stack developer with experie
 <h4>Technical Skills</h4>
 
     Front-end: HTML, CSS, JavaScript, React, Next, Redux
-    Back-end: Node.js, Expressjs, Nestjs
+    Back-end: Nodejs, Expressjs, Nestjs
     Database: MySQL, PostgreSQL, Firebase, MongoDB
-    APIs and Integration: RESTful APIs,OAuth
+    APIs and Integration: RESTful APIs, OAuth
     DevOps: Git, GitHub, Docker, AWS
     Testing and Debugging: Jasmine
 
 <h4>Contact</h4>
 
-If you would like to get in touch with me, You can reach me at adhamhaddad.dev@gmail.com or connect with me on LinkedIn. I look forward to hearing from you!
+If you want to contact me, You can reach me at adhamhaddad.dev@gmail.com or connect with me on LinkedIn. I look forward to hearing from you!
