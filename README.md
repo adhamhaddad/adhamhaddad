@@ -4,7 +4,7 @@ Hello and welcome to my GitHub profile! I am a Full-Stack developer with experie
 
 <h4>Technical Skills</h4>
 
-    Front-end: HTML, CSS, JavaScript, React, Next, Redux
+    Front-end: HTML, CSS, TypeScript, JavaScript, React, Next, Redux
     Back-end: Nodejs, Expressjs, Nestjs
     Database: MySQL, PostgreSQL, Firebase, MongoDB
     APIs and Integration: RESTful APIs, OAuth
