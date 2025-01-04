@@ -9,8 +9,8 @@ Hello and welcome to my GitHub profile! I am a Full-Stack developer with experie
     Database: MySQL, PostgreSQL, Firebase, MongoDB
     APIs and Integration: RESTful APIs, OAuth
     DevOps: Git, GitHub, Docker, AWS
-    Testing and Debugging: Jasmine
+    Testing and Debugging: Jest, Jasmine
 
 <h4>Contact</h4>
 
-If you want to contact me, You can reach me at adhamhaddad.dev@gmail.com or connect with me on LinkedIn. I look forward to hearing from you!
+You can reach me at adhamhaddad.dev@gmail.com or on LinkedIn. I look forward to hearing from you!
